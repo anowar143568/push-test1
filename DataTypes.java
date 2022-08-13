@@ -35,7 +35,8 @@ public class DataTypes {
 
         int x = 5;
         String str = "ABC";
-
-
+        System.out.println("this is a test program");
+        System.out.println("This is a java language");
+        System.out.println("Trying to look the changes");
     }
 }
